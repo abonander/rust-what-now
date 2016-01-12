@@ -12,6 +12,12 @@ Projects that aren't too complex; any given one might take you a couple hours to
 
 More challenging projects which might take a while--maybe a weekend or two. These will probably necessitate some sort of module structure, and you may want to bring in external crates so you don't have to implement everything yourself.
 
+####[Rust Wishlist](ideas-wishlist.md)
+
+A list of libraries or applications which various Rustaceans have shared a desire for, but which no one has stepped up to the challenge of creating. These are the most challenging but also most rewarding projects possible. You'll often have little to no help, and it will be your responsibility to your crate's users to maintain and upgrade it for the foreseeable future. 
+
+But in return, you'll gain the undying respect and admiration of the Rust community for your invaluable contribution to the ecosystem. And it looks great on a CV.
+
 ####[Programming Challenges](challenges.md)
 
 Sites and forums which provide generic or domain-specific programming challenges for you to complete. More often than not these are language-agnostic, and Rust is quite often underrepresented in submitted solutions. 
@@ -30,7 +36,7 @@ How to get started with contributing to [Servo][servo], Rust's partner-project a
 
 ####[Community Projects Open to Collaboration](contrib-community.md)
 
-Rust community projects which are welcoming and supportive of collaborators, and which might be, or are, looking to mentor newcomers to Rust. Organized by problem domain.
+Rust community projects which are known to be welcoming and supportive of collaborators, and which might be, or are, looking to mentor newcomers to Rust. Organized by problem domain.
 
 #####[Application Development](contrib-community.md#app-development)
 
@@ -52,7 +58,7 @@ Recommended reading: [The Rustonomicon](https://doc.rust-lang.org/nightly/nomico
 
 #####[Web Development](contrib-community.md#web-development)
 
-Aside from the previously mentioned Servo project, there are many projects in the Rust ecosystem revolving around web development, usually focused on the server side. These include low-level HTTP libraries, web servers, web application frameworks, database bindings, etc. There are also a few projects focused more on the client side, like HTTP clients and REST bindings to popular web services.
+Aside from the previously mentioned [Servo][servo] project, there are many projects in the Rust ecosystem revolving around web development, usually focused on the server side. These include low-level HTTP libraries, web servers, web application frameworks, database bindings, etc. There are also a few projects focused more on the client side, like HTTP clients and REST bindings to popular web services.
 
 ####[Community Involvement](community-other.md)
 
