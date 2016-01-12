@@ -56,7 +56,7 @@ Aside from the previously mentioned Servo project, there are many projects in th
 
 ####[Community Involvement](community-other.md)
 
-Perhaps you'd rather write English (or another human language) than Rust, but still might want to exercise your knowledge. There's still loads of things you can do within the Rust community, and this category might give you some ideas.
+Perhaps you'd rather write English (or another human language) than Rust, and/or prefer socializing with humans rather than arguing with the compiler. There's still loads of things you can do within the Rust community, and this category might give you some ideas.
 
 [trpl]: https://doc.rust-lang.org/nightly/book/
 [rbe]: http://rustbyexample.com/
