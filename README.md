@@ -24,7 +24,7 @@ Sites and forums which provide generic or domain-specific programming challenges
 
 ####[Project Walkthroughs](walkthroughs.md)
 
-Blog posts by Rust community members which walk the reader through creating a domain-specific project, like a 2D game. These vary in their levels of hand-holdiness, but may provide additional challenges if they haven't been kept up to date with Rust and the crates they use, or deliberately omit part of their implementation as an exercise for the reader.
+Web series by Rust community members which walk the reader through creating a domain-specific project, like a 2D game. These vary in their levels of hand-holdiness, but may provide additional challenges if they haven't been kept up to date with Rust and the crates they use, or deliberately omit part of their implementation as an exercise for the reader.
 
 ####[Contributing to Rust](contrib-rust.md)
 
