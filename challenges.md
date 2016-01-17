@@ -29,3 +29,7 @@ More information is available in the subreddit's sidebar.
 ###Project Euler
 
 https://projecteuler.net
+
+In a nutshell, Project Euler is a series of mathematical challenges which will require programming skills to solve. The first problems are simple arithmetical puzzles which most programmers learn to solve early on, as they make for easy examples for any given programming language. Later problems don't necessarily become more complex but they begin to incorporate more advanced maths knowledge like trigonometry. Some problems are complex simply because of the extremely large numbers involved.
+
+If you have an aptitude for maths and want to challenge yourself in your knowledge of Rust, the Project Euler series comes highly recommended.
